@@ -20,4 +20,6 @@ Java, AWT, SQLite (JDBC)
 3. Compile: `javac -cp ".;sqlite-jdbc-3.36.0.3.jar" *.java`
 4. Run: `java -cp ".;sqlite-jdbc-3.36.0.3.jar" Main`
 
+## Screenshot
+![Mood Study Planner](app.png)
 (On Mac/Linux, use `:` instead of `;` in the classpath.)

@@ -1,0 +1,10 @@
+bin/
+*.class
+.vscode/
+.project
+.classpath
+.settings/
+study_planner.db
+sessions.txt
+.DS_Store
+Thumbs.db

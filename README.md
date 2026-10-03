@@ -21,6 +21,5 @@ Java, AWT, SQLite (JDBC)
 4. Run: `java -cp ".;sqlite-jdbc-3.36.0.3.jar" Main`
 
 ## Screenshot
-![Mood Study Planner](image.png)
-
+![Mood Study Planner](app.png)
 (On Mac/Linux, use `:` instead of `;` in the classpath.)

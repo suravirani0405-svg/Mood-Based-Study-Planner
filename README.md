@@ -22,4 +22,5 @@ Java, AWT, SQLite (JDBC)
 
 ## Screenshot
 ![Mood Study Planner](app.png)
+
 (On Mac/Linux, use `:` instead of `;` in the classpath.)
